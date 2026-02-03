@@ -96,7 +96,7 @@ DAX (Calculated Measures & KPIs)
 Show what the dashboard looks like.
 
 Example:
-![Dashboard Preview]
+![Dashboard Preview](https://github.com/Samirpatra2050/Customer-Shopping-Behavior-Dashboard/blob/main/Customer%20shopping%20behavior%20Dashboard.png)
 Customer Shopping Behavior Dashboard built using Python, SQL & Power BI
 
 ## Contact
